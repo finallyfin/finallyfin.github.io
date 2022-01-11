@@ -4,7 +4,7 @@ title: python web project-1
 categories: python
 author: "Jiyoung Cheon"
 meta: "Springfield"
-tags: [python], [project]
+tags: [python, project]
 ---
 
 ## 파이썬 웹프로그래밍 (h2)
