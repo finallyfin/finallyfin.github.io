@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "맥os환경에서 virtualbox로 centOS 설치하기"
+title: 맥os환경에서 virtualbox로 centOS 설치하기
 categories: python
 author: "Jiyoung Cheon"
 meta: ""
