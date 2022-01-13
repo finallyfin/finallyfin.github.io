@@ -7,7 +7,7 @@ meta: "Springfield"
 tags: [python, project]
 ---
 
-## 파이썬 웹프로그래밍 (h2)
+## 파이썬 웹프로그래밍
 
 시작하기전에 먼저 개발환경을 리눅스 사용을 위하여 centOS를 virtualbox를 이용하여 설치했다.
 
