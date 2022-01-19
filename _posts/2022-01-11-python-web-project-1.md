@@ -3,7 +3,7 @@ layout: post
 title: python web project-1
 categories: python
 author: "Jiyoung Cheon"
-meta: "Springfield"
+meta: ""
 tags: [python, project]
 ---
 
