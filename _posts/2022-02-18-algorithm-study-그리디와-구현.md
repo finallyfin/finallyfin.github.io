@@ -15,3 +15,5 @@ tags: [algorithm, study, 동빈나, 그리디, 구현]
 * 단순히 가장 좋아 보이는 것을 반복적으로 선택해도 최적의 해를 구할 수 있는지 검토합니다.
 
 <img src="./bestway.png" width="100px" height="50px" title="bestway"/>
+
+![Bestway](/assets/images/bestway.png)
