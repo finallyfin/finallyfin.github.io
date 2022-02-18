@@ -14,8 +14,7 @@ tags: [algorithm, study, 동빈나, 그리디, 구현]
 * 그리디 해법은 그 정당성 분석이 중요합니다.
 * 단순히 가장 좋아 보이는 것을 반복적으로 선택해도 최적의 해를 구할 수 있는지 검토합니다.
 
-<img src="./bestway.png" width="100px" height="50px" title="bestway"/>
-
 ![Bestway](/assets/images/bestway.png)
 
-사진이 왜 안들어갈까요 경로가 잘못된걸까요
+이러한 상황에서 최적의 해는 5->7->9 일 것이다. 여기서 그리디 알고리즘을 적용하면 아래와 같은 상황이 된다.
+![Bestway](/assets/images/greedy.png)
