@@ -1,10 +1,10 @@
 ---
 layout: post
-title: algorithm study-1
+title: [헬로코딩] algorithm study-1
 categories: algorithm
 author: "Jiyoung Cheon"
 meta: ""
-tags: [algorithm, study]
+tags: [algorithm, study, 헬로코딩]
 ---
 
 ## algorithm study
