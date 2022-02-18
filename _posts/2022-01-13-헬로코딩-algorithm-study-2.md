@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [헬로코딩] algorithm study-2
+title: 헬로코딩-algorithm study-2
 categories: algorithm
 author: "Jiyoung Cheon"
 meta: ""
