@@ -17,3 +17,5 @@ tags: [algorithm, study, 동빈나, 그리디, 구현]
 <img src="./bestway.png" width="100px" height="50px" title="bestway"/>
 
 ![Bestway](/assets/images/bestway.png)
+
+사진이 왜 안들어갈까요 경로가 잘못된걸까요
